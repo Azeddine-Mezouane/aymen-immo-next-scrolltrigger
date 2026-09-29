@@ -33,7 +33,7 @@ section {
 }
 
 .hero .img {
-  width: 50%;
+  width: 10%;
   aspect-ratio: 1;
 }
 
@@ -131,4 +131,8 @@ button {
     width: 50%;
     height: 240px;
   }
+  .hero .img {
+  width: 40%;
+  aspect-ratio: 1;
+}
 }

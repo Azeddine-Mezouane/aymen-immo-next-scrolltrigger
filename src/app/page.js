@@ -104,7 +104,7 @@ export default function Home() {
     <ReactLenis root>
       <section className="hero">
         <div className="img">
-          <img src="/azeddine-ppp.png" alt="" width={100} height={100} />
+          <img src="/azeddine-pp.png" alt="" width={20} height={20} />
         </div>
       </section>
 
